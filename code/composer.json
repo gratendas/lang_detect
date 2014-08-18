@@ -1,0 +1,20 @@
+{
+
+    "repositories": [
+
+        {
+            "type": "vcs",
+            "url": "http://git.anphabe.net/anphabe/text_languagedetect.git"
+        }
+    ],
+
+    "require": {
+        "anphabe/Text_LanguageDetect": "dev-master",
+        "raulfraile/ladybug": "~1.0"
+    }
+
+
+
+
+
+}
